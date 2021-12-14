@@ -45,13 +45,13 @@ variable "instance_ami_map" {
 
 variable "access_key" {
   type    = string
-  default = "AKIAXNJ4PYHBGGNVYCL5"
+  default = "key"
 }
 
 
 variable "secret_key" {
   type    = string
-  default = "ZYxMxyuANmwqI+jEcpWytcDmiMpv2cnOg7e/ecPe"
+  default = "key"
 }
 
 /*variable "s3_bucket" {
